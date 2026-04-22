@@ -10,7 +10,7 @@
 <!-- ============================================== -->
 <div align="center">
   <a href="https://github.com/Tdoggie">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=820&lines=Lead+Data+Scientist+%40+Kings+Collection;CS+%40+BITS+Pilani+%E2%86%90+Georgia+Tech;Coding+since+age+13;Turning+data+into+decisions+that+ship" alt="typing" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=820&lines=Lead+Data+Scientist+%40+Kings+Collection;CS+%40+BITS+Pilani+%E2%86%90+Georgia+Tech;Turning+data+into+decisions+that+drive+change" alt="typing" />
   </a>
 </div>
 
