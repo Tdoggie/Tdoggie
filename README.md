@@ -27,102 +27,15 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
   <img src="https://img.shields.io/badge/Nairobi,_Kenya-006600?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location" />
-  <img src="https://komarev.com/ghpvc/?username=Tdoggie&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" alt="views" />
 </div>
 
 ---
 
 ## 👊🏼 About Me
 
-I wrote my first line of code at **13** — not for school, not because anyone told me to, but because I wanted to know how things worked. That same curiosity drives everything I build today.
-
-I'm **Lead Data Scientist at Kings Collection** in Nairobi, Kenya, where I own the ML stack end-to-end. Before that, at **19**, I re-engineered a FinTech credit-scoring model that lifted **recall by +12%** and **F1 by +9%** — progressing from shadowing to full module ownership ahead of schedule.
+Curiosity is the engine. In a field that reinvents itself every few months — new architectures, new tooling, new paradigms — standing still is the only real way to fall behind. I chase understanding for its own sake, and that instinct is what keeps me learning, experimenting, and shipping through every shift in the landscape.
 
 > My edge: **deep CS fundamentals + modern AI orchestration** = moving from concept to production at unprecedented speed. I don't just solve problems — I lead through them, turning every challenge into a strategic data point for growth.
-
----
-
-## 🧭 The Journey
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <b>🇺🇸 Georgia Tech</b><br/>
-      <sub>BS Computer Science</sub><br/>
-      <sub>2022 – 2024</sub>
-    </td>
-    <td align="center" width="33%">
-      <b>🎯 Moringa School</b><br/>
-      <sub>Data Science & ML Cert.</sub><br/>
-      <sub>2025</sub>
-    </td>
-    <td align="center" width="33%">
-      <b>🇮🇳 BITS Pilani</b><br/>
-      <sub>BS Computer Science</sub><br/>
-      <sub>2026 – 2029</sub>
-    </td>
-  </tr>
-</table>
-
-> Relocating across continents mid-degree taught me something no textbook could: **adaptability is the real technical skill.**
-
----
-
-## 💼 Where I've Made an Impact
-
-#### 🏆 Lead Data Scientist — **Kings Collection** &nbsp;·&nbsp; <sub>Mar 2026 – Present · Nairobi, Kenya</sub>
-Owning the data-science function end-to-end — from data pipelines to production-ready ML modules driving business decisions.
-
-#### 💰 Junior Software Developer — **Spin Mobile Limited** (FinTech) &nbsp;·&nbsp; <sub>May – Aug 2023 · Nairobi, Kenya</sub>
-At 19, handed ownership of ML modules inside a live lending platform.
-- 📈 Re-engineered the credit-scoring model with behavioral features (transaction frequency, repayment consistency, velocity signals) → **+12% recall, +9% F1**
-- ⚡ Optimized 3+ legacy SQL queries and Python processing scripts → **-15% data-retrieval latency**
-- 🚀 Progressed from shadowing to full module ownership **ahead of schedule**
-
-#### 🎓 Private Tutor — **4mkord Academia** &nbsp;·&nbsp; <sub>Feb 2024 – Aug 2025 · Georgia, USA</sub>
-Took students failing STEM/CS coursework to **low-80% averages** through personalised intervention plans.
-- ~**30% improvement** in cohort average performance
-- Sharpened the skill I now use most: translating complex ML into language any stakeholder can act on
-
----
-
-## 🛠️ Tech Arsenal
-
-#### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</p>
-
-#### 🧠 Machine Learning & AI
-<p>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-0176D3?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Optuna-1E88E5?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/SMOTE-E91E63?style=for-the-badge&logoColor=white" />
-</p>
-
-#### 📊 Data & Visualization
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-</p>
-
-#### 🚀 Full-Stack & Deployment
-<p>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
 
 ---
 
@@ -184,28 +97,43 @@ Took students failing STEM/CS coursework to **low-80% averages** through persona
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Arsenal
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Tdoggie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Tdoggie&theme=tokyonight&hide_border=true" />
-</div>
+#### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tdoggie&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
+#### 🧠 Machine Learning & AI
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-0176D3?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Optuna-1E88E5?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SMOTE-E91E63?style=for-the-badge&logoColor=white" />
+</p>
 
-<br/>
+#### 📊 Data & Visualization
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tdoggie&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tdoggie&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
-</div>
+#### 🚀 Full-Stack & Deployment
+<p>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
