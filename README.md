@@ -23,9 +23,6 @@
   <a href="https://www.linkedin.com/in/vihaansheth03/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="https://github.com/Tdoggie">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
   <img src="https://img.shields.io/badge/Nairobi,_Kenya-006600?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location" />
 </div>
 
