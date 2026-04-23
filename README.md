@@ -30,9 +30,9 @@
 
 ## 👊🏼 About Me
 
-Curiosity is the engine. In a field that reinvents itself every few months — new architectures, new tooling, new paradigms — standing still is the only real way to fall behind. I chase understanding for its own sake, and that instinct is what keeps me learning, experimenting, and shipping through every shift in the landscape.
+Curiosity is the engine. In a field that reinvents itself every few months in regards of new architectures, new tooling and new paradigms, standing still is the only real way to fall behind. I chase understanding for its own sake, and that instinct is what keeps me learning, experimenting, and shipping through every shift in the landscape.
 
-> My edge: **deep CS fundamentals + modern AI orchestration** = moving from concept to production at unprecedented speed. I don't just solve problems — I lead through them, turning every challenge into a strategic data point for growth.
+> My edge: **deep CS fundamentals + modern AI orchestration** = moving from concept to production at unprecedented speed. I don't just solve problems: I lead through them, turning every challenge into a strategic data point for growth.
 
 ---
 
